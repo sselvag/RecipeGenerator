@@ -48,7 +48,7 @@ body{
     padding: 2rem;
     background: #e9e5dc;
     text-align: center;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.804), rgba(255, 255, 255, 0.804))), url("cooking.jpg"); 
+    background-image: linear-gradient(rgba(255, 255, 255, 0.804), rgba(255, 255, 255, 0.804)), url("cooking.jpg"); 
 }
 
 .meal-search cite{
